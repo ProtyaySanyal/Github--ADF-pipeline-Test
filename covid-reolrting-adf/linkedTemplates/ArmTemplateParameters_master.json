@@ -14,6 +14,9 @@
 		"ls_adls_covidreportingdl_properties_typeProperties_url": {
 			"value": "https://covidreportingdlpro.dfs.core.windows.net/"
 		},
+		"ls_europa_ecdc_http_properties_typeProperties_url": {
+			"value": "https://github.com"
+		},
 		"containerUri": {
 			"value": ""
 		},
